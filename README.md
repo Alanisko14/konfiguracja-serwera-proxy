@@ -1,4 +1,4 @@
-[Proxy](Konfiguracja Serwera Proxy.md)
+[Proxy](KonfiguracjaSerweraProxy.md)
 [Zobacz instrukcję](instrukcja.md)
 [Zobacz instrukcję](instrukcja.md)
 [Zobacz instrukcję](instrukcja.md)
